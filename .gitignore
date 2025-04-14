@@ -2,8 +2,8 @@
 .vscode
 .env
 
-#Java Stuff
+#Java (Backend)
 movieDB/target.
 HELP.movieDB
 
-#Frontend (Node)
+#Frontend (Node/React)
