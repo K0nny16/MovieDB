@@ -24,7 +24,7 @@ This is a full-stack application for managing a movie database. The project uses
 ## Getting Started
 
 ### Prerequisites
-- JDK 11 or higher
+- JDK 21 or higher
 - Node.js and npm
 - Maven
 
