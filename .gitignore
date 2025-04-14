@@ -1,0 +1,9 @@
+#IDE Shit
+.vscode
+.env
+
+#Java Stuff
+movieDB/target.
+HELP.movieDB
+
+#Frontend (Node)
