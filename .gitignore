@@ -8,3 +8,7 @@ HELP.movieDB
 
 #Frontend (Node/React)
 frontend/node_modules
+
+
+#Docker
+movieDB/compose.yaml
