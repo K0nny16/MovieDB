@@ -21,9 +21,11 @@ jobs:
           cache: maven
           
       - name: Maven Build
-        run: mvn -B clean install --file pom.xml
-
+        working-directory: ./movieDB
+        run: mvn -B clean install
+        
       - name: Running tests
+        working-directory: ./movieDB
         run: mvn test
 
   frontend:

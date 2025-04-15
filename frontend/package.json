@@ -4,7 +4,8 @@
   "description": "Frontend för MovieDB",
   "main": "index.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "Karl Kowal",
